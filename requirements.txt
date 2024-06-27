@@ -1,0 +1,17 @@
+langchain
+streamlit==1.32.2
+langchain_google_genai
+pillow
+transformers
+torch
+torchvision
+pandas
+python-docx
+openpyxl
+PyMuPDF
+python-pptx
+PyPDF2
+googletrans
+python-dotenv
+httpcore
+translate
